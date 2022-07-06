@@ -16,7 +16,7 @@ This plugin allows you to request delivery or quote to Sendy Delivery API. It on
 * Consumes Sendy API as guided on [Sendy Public API](https://sendypublicapi.docs.apiary.io/)
 * Convert the shoppers address to geocode Latitude/Longitude positioning with Google Maps
 * Sends the Latitude and Longitude coordinates to Sendy API for rate calculation
-* Obtain distance and delivery rates as calculated by Sendy API
+* Obtains distance and delivery rates as calculated by Sendy API
 
 ## Requires
 * [jQuery Geocoding and Places Autocomplete Plugin](https://github.com/ubilabs/geocomplete)
